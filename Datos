@@ -1,0 +1,40 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.mycompany.tarea;
+
+/**
+ *
+ * @author Jorge
+ */
+public class Datos {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    //Tarea ProgramaciÃ³n I Datos
+   Byte precio=42; //Tipo Entero
+   System.out.println(precio);
+   Short importe_acumulado=210;//Tipo Entero nÃºmeros cortos
+   System.out.println(importe_acumulado);
+   String profesor="Ernesto JuÃ¡rez PÃ©rez";//Tipo Cadena de Texto
+   System.out.println(profesor);
+   String aula="A-44";
+   System.out.println(aula);
+   int capacidad=1500;//Tipo Entero, minÃºscula
+   System.out.println(capacidad);
+   Boolean funciona=true;//Tipo LÃ³gico True or False
+   System.out.println(funciona);
+   Double diametro= 34.25;//Tipo NÃºmero con coma flotante
+   System.out.println(diametro);
+   long masa=341525123;
+   System.out.println(masa);
+   char letra1= 'h';//Tipo Caracteres Unicode minÃºsculas
+   System.out.println(letra1);
+    }
+    
+}
